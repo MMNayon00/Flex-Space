@@ -43,9 +43,9 @@ flex-space/
 
 ## 📸 Screenshots
 
-### 📝 Sign U
+### 📝 Sign Up Page
 ![Image 19-6-25 at 12 48 AM](https://github.com/user-attachments/assets/13b2519e-915f-4025-b2c6-e778eada8157)
-p Page
+
 
 ### 🔐 Sign In Page
 ![Image 19-6-25 at 12 57 AM](https://github.com/user-attachments/assets/aeedc1c5-32a2-4b05-83f5-deb6e99334b2)
